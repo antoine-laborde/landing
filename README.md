@@ -1,5 +1,3 @@
-# landing
-<!DOCTYPE html>
 <html>
 	<head>
 		<title>Sports</title>
@@ -63,3 +61,5 @@
 		
 	</body>
 </html>
+
+
